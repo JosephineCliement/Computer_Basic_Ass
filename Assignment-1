@@ -21,6 +21,21 @@ sometimes through software.
     we can use combination of 24 bit line segment.
     ===================================================================================================================================================================
 2) Explain the working of LCD.
+Ans)
+Meaning:-
+A liquid crystal display or LCD draws its definition from its name itself.
+It is a combination of two states of matter, the solid and the liquid. LCD uses a liquid crystal to produce a visible image.
+Liquid crystal displays are super-thin technology display screens that are generally used in laptop computer screens, TVs, cell phones, and portable video games.
+LCD’s technologies allow displays to be much thinner when compared to a cathode ray tube (CRT) technology.
+Working:-
+The principle behind the LCDs is that when an electrical current is applied to the liquid crystal molecule, the molecule tends to untwist.
+This causes the angle of light which is passing through the molecule of the polarized glass and also causes a change in the angle of the top polarizing filter.
+As a result, a little light is allowed to pass the polarized glass through a particular area of the LCD.
+
+Thus that particular area will become dark compared to others. The LCD works on the principle of blocking light.
+While constructing the LCDs, a reflected mirror is arranged at the back.
+An electrode plane is made of indium-tin-oxide which is kept on top and a polarized glass with a polarizing film is also added on the bottom of the device.
+The complete region of the LCD has to be enclosed by a common electrode and above it should be the liquid crystal matter.
 
 3) What is Firmware.Discuss
 
