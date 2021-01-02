@@ -38,7 +38,18 @@ An electrode plane is made of indium-tin-oxide which is kept on top and a polari
 The complete region of the LCD has to be enclosed by a common electrode and above it should be the liquid crystal matter.
 
 3) What is Firmware.Discuss
+Ans)
+Meaning:-
+Firmware is a software program or set of instructions programmed on a hardware device.
+It provides the necessary instructions for how the device communicates with the other computer hardware.
+But how can software be programmed onto hardware? Good question.
+Firmware is typically stored in the flash ROM of a hardware device.
+While ROM is "read-only memory," flash ROM can be erased and rewritten because it is actually a type of flash memory.
 
+Firmware can be thought of as "semi-permanent" since it remains the same unless it is updated by a firmware updater.
+You may need to update the firmware of certain devices,
+such as hard drives and video cards in order for them to work with a new operating system. CD and DVD drive manufacturers often make firmware
+updates available that allow the drives to read faster media. Sometimes manufacturers release firmware updates that simply make their devices work more efficiently.
 4) Difference between Hard disk, RAM and Cache
 
 5) Discuss different Levels of  Computer language
